@@ -9,4 +9,7 @@ requirements:
 
 -keras
 
+-MNIST handwritten digit 
+
+https://www.kaggle.com/c/digit-recognizer/data
 
