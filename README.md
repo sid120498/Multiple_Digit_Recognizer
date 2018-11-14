@@ -13,3 +13,7 @@ requirements:
 
 https://www.kaggle.com/c/digit-recognizer/data
 
+![Test data](/datasets/test_img3.jpg)
+
+
+![Result](/results/result_img3.jpg)
